@@ -1,0 +1,6 @@
+db.sqlite3
+./manage.py makemigrations --merge
+__pycache__/
+ __init__.py
+ .env
+.venv
